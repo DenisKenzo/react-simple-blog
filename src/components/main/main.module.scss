@@ -1,14 +1,15 @@
+$color: #00a876;
+
 .contentContainer {
   text-align: center;
-  width: 50%;
-}
-
-.leaderBoardContainer {
-  text-align: center;
-  width: 50%;
+  width: 40%;
+  min-height: 100vh;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.34);
+  border-right: 2px solid $color;
+  border-left: 2px solid $color;
 }
 
 .main_container {
   display: flex;
-  margin-top: 2%;
+  justify-content: center;
 }

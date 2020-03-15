@@ -31,7 +31,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.last.introduce.type" value="LET" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-app/Game_in_Dots1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -40,14 +40,14 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\react-dev\src\components\PlayGround" />
+      <recent name="C:\react-app\react-dev\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\react-dev\src\components" />
       <recent name="C:\react-app\react-dev\src\components\messages" />
       <recent name="C:\react-app\react-dev\src\components\list" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\react-dev\src\components\PlayGround" />
-      <recent name="C:\react-app\react-dev\src" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,6 +107,14 @@
       <workItem from="1583058840826" duration="31674000" />
       <workItem from="1583148487025" duration="1937000" />
       <workItem from="1583150518907" duration="1234000" />
+      <workItem from="1584097118388" duration="28071000" />
+      <workItem from="1584179005420" duration="18103000" />
+      <workItem from="1584262289595" duration="612000" />
+      <workItem from="1584263368394" duration="18074000" />
+      <workItem from="1584296649133" duration="1700000" />
+      <workItem from="1584298470388" duration="91000" />
+      <workItem from="1584300031191" duration="114000" />
+      <workItem from="1584300893736" duration="101000" />
     </task>
     <servers />
   </component>
@@ -118,34 +126,34 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="420" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1581938828389" />
-    <state x="1446" y="589" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583066440870">
+    <state x="1446" y="589" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584180964856">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1446" y="589" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1583066440870" />
-    <state x="1686" y="482" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583077306378">
+    <state x="1446" y="589" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1584180964856" />
+    <state x="1686" y="482" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584300093769">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1686" y="482" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583077306378" />
+    <state x="1686" y="482" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584300093769" />
     <state x="1421" y="611" key="FileChooserDialogImpl" timestamp="1583074806228">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1421" y="611" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1583074806228" />
-    <state width="1896" height="254" key="GridCell.Tab.0.bottom" timestamp="1583097890060">
+    <state width="1894" height="251" key="GridCell.Tab.0.bottom" timestamp="1584300144383">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1896" height="254" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1583097890060" />
-    <state width="1896" height="254" key="GridCell.Tab.0.center" timestamp="1583097890059">
+    <state width="1894" height="251" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584300144383" />
+    <state width="1894" height="251" key="GridCell.Tab.0.center" timestamp="1584300144383">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1896" height="254" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1583097890059" />
-    <state width="1896" height="254" key="GridCell.Tab.0.left" timestamp="1583097890059">
+    <state width="1894" height="251" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584300144383" />
+    <state width="1894" height="251" key="GridCell.Tab.0.left" timestamp="1584300144383">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1896" height="254" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1583097890059" />
-    <state width="1896" height="254" key="GridCell.Tab.0.right" timestamp="1583097890059">
+    <state width="1894" height="251" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584300144383" />
+    <state width="1894" height="251" key="GridCell.Tab.0.right" timestamp="1584300144383">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1896" height="254" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1583097890059" />
+    <state width="1894" height="251" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584300144383" />
     <state width="1695" height="336" key="GridCell.Tab.1.bottom" timestamp="1582377897027">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -224,6 +232,10 @@
     </state>
     <state x="857" y="337" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582817288504" />
     <state x="1143" y="454" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1582293142612" />
+    <state x="1269" y="395" width="672" height="678" key="search.everywhere.popup" timestamp="1584110072471">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1269" y="395" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1584110072471" />
     <state x="1070" y="626" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1582109496286">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

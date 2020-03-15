@@ -1,0 +1,41 @@
+$borderColor: #999999;
+
+.single_post {
+  padding: 0 2rem;
+}
+
+.comments_block {
+  margin-top: 2rem;
+  border-top: 1px solid $borderColor;
+}
+
+.head {
+  margin-top: 2rem;
+  display: flex;
+  height: 5rem;
+  justify-content: space-between;
+}
+
+.head_title {
+  color: white;
+  background-color: #26a69a;
+  padding: 0 0.5rem;
+  height: fit-content;
+}
+
+.comments {
+  border: 2px solid $borderColor;
+}
+
+.single_comment {
+  min-height: 3rem;
+  border-bottom: 1px solid $borderColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.single_comment:last-child {
+  border: none;
+}
+
